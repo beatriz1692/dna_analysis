@@ -37,6 +37,3 @@ Etapas principais:
 | Estrutura 3D | Arquivos `.pdb` (AlphaFold) |
 
 ---
-
-## 📁 Estrutura de Pastas
-
