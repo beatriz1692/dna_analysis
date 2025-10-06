@@ -1,4 +1,4 @@
-# 🧬 BioMutation Explorer
+# 🧬 DNA_Analysis/BioMutation_Explorer
 
 Análise automatizada de mutações genéticas com foco em aplicações clínicas e estruturais, utilizando **Python**, **APIs públicas** (ClinVar, Ensembl, UniProt, AlphaFold), e **geração de relatórios personalizados**.
 
